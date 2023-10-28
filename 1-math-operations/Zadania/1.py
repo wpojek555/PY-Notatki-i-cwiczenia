@@ -1,0 +1,1 @@
+# napisz algorytm który obliczy kwadrat, sześcian i potęgę 10 danej liczby

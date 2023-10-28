@@ -10,8 +10,17 @@ print(5 // 2)
 print("mnożenie:")
 print(2 * 2)
 
+print("reszta:")
+print(10 % 6)
+
 print("Potęgowanie:")
 print(5 ** 3)
+
+print("Pierwiastkowanie:")
+# to jest przykład pierwiastka 2 stopnia z 9
+print(9**(1/2))
+# to jest przykład pierwiastka 3 stopnia z 125
+print(125**(1/3))
 
 print("Skrócone Operatory:")
 x = 5
