@@ -1,4 +1,4 @@
-# napisz algorytm który ma obliczyć z wzoru pitagorasa przeciwprostokątną w trójkącie prostokątnym
+# napisz algorytm który ma obliczyć ze wzoru pitagorasa przeciwprostokątną w trójkącie prostokątnym
 
 a = int(input("Napisz 1 przyprostokątną: "))
 b = int(input("Napisz 2 przyprostokątną: "))

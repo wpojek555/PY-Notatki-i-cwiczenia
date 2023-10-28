@@ -1,1 +1,1 @@
-# napisz algorytm który ma obliczyć z wzoru pitagorasa przeciwprostokątną w trójkącie prostokątnym
+# napisz algorytm który ma obliczyć ze wzoru pitagorasa przeciwprostokątną w trójkącie prostokątnym
