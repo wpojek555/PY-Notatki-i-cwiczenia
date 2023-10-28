@@ -1,16 +1,44 @@
-# This is a sample Python script.
+print("kolejność:")
+print((2 + 2) * 2)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+print("dzielenie")
+# zwróci liczbę float:
+print(5 / 2)
+# zwróci liczbę int:
+print(5 // 2)
 
+print("mnożenie:")
+print(2 * 2)
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+print("Potęgowanie:")
+print(5 ** 3)
 
+print("Skrócone Operatory:")
+x = 5
+print(x)
+# dodanie do zmiennej 1
+x += 1
+print(x)
+# x++ - Błąd Inkrementacja/Dekrementacja nie działa!!!
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+print("Konwersja Typów:")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# funkcja input zwraca typ string
+
+# jeżeli dodamy typ string wyjdzie nam sklejony teskt np:
+# "5" + "5" = 55
+
+# dlatego musimy przekonwertować typ string na "int" albo "float" Funkcją int / float
+a = input("Podaj pierwszą liczbę: ")
+b = input("Podaj drugą liczbę: ")
+print(float(a) + float(b))
+
+print("Usuwanie zmiennych:")
+
+x = 15
+y = 12
+print(x + y)
+
+# kiedy zmienna jest nam nie potrzebna możemy ją usunąć
+del x
+# ważne jest teraz by nie używać już zmiennej x ponieważ ona już nie istnieje
