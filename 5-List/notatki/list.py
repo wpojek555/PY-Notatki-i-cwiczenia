@@ -124,6 +124,8 @@ print()
 lista.reverse()
 print(lista)
 print()
+
+
 print("Wyczyszczenie listy:")
 print()
 lista.clear()
