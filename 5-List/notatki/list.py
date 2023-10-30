@@ -130,3 +130,10 @@ print("Wyczyszczenie listy:")
 print()
 lista.clear()
 print(lista)
+
+
+print()
+print("Przypisanie do listy jakiejś przedziału liczb")
+print()
+
+print(list(range(10, 20)))
